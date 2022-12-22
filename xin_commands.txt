@@ -1,0 +1,6 @@
+create hex file:
+make lily58:default
+
+
+flash：
+qmk flash -kb lily58 -km default -e CONVERT_TO=blok
